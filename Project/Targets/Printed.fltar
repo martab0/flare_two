@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="PDF Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  ConditionTagExpression="exclude[General.Online]"
+  PatchHeadingLevels="true"
+  GetLatestBeforeCompile="true"
+  OutputFolder="C:\Users\vburg\Pictures\Output">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    InitialMagnification="Fit"
+    ShowUsedBookmarks="false"
+    CollapsedBookmarks="true" />
+  <DocumentProperties
+    Author="Vasylyna Burger"
+    Title="YourApp User Guide"
+    Subject="YourApp"
+    Keywords="User Guide" />
+</CatapultTarget>

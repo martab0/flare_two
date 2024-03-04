@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="2.5cm" PaddingRight="3.5cm" PaddingTop="2.5cm" PaddingBottom="2.5cm">
+        <Frame Flow="header" Anchors="" Right="-0.5833333in" Bottom="9.291667in" X="-0.2083333in" Y="-1.878542cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="5px" Height="1.243542cm" VerticalAlign="bottom" TextAlign="right" BorderBottomStyle="solid" BorderBottomWidth="0pt" BorderBottomColor="#f5f5f5" Width="17.62125cm">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="margin-right: 0px;margin-left: 0px;font-size: 9pt;color: #808080;text-align: right;">YourApp User Guide v.1.0<xhtml:br /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="15px" PaddingRight="10px" PaddingTop="4px" PaddingBottom="10px" X="-0.2083333in" Y="0in" Right="-0.5833333in" Bottom="-0.09375in" Width="17.62125cm" Height="23.20396cm">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="-0.5833333in" Bottom="-71px" X="-0.1979167in" Y="23.60083cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="1.243542cm" VerticalAlign="middle" TextAlign="center" BorderTopStyle="solid" BorderTopWidth="0pt" BorderTopColor="#ffffff" Width="17.59479cm">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="font-size: 9pt;color: #808080;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="3.5cm" PaddingRight="2.5cm" PaddingTop="2.5cm" PaddingBottom="2.5cm">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.3333333in" Y="201px" Right="0.5729167in" Bottom="1.4375in" Width="15.00187cm" Height="13.99646cm">
+        </Frame>
+        <Frame X="330px" Y="-56px" Width="235px" Height="78px" Flow="header" Right="25px" Bottom="846px" Anchors="" BorderBottomStyle="solid" BorderBottomWidth="0px" BorderBottomColor="#ffffff">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: right;">
+                            <xhtml:img xhtml:src="../Images/Picture11.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:class="imageSmall" xhtml:style="width: 357px;height: 73px;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-33px" Y="760px" Width="558px" Height="152px" Flow="footer" Right="65px" Bottom="-44px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="font-size: 9pt;color: #808080;">© 2020 XXXX, Inc. All Rights Reserved <xhtml:br />Carpe diem vulputate est nec commodo rutrum. Pellentesque mattis convallis nisi eu and I ain’t stoppin until the swear jar’s full. Ut rhoncus velit at mauris interdum, fringilla dictum neque rutrum. Curabitur mattis odio at erat viverra lobortis. Poppin’ bottles on the ice, tristique suscipit mauris elementum tempus.</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>
