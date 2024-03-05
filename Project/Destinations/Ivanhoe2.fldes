@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my GitHub destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="c:\MARTY\dokumenty\Vistula\2023\Techniki i narzędzia stosowane w komunikacji technicznej\MadCap Flare\Ivanhoe_Sample_Project\Docs"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Git"
+  Database="file:///c:/MARTY/dokumenty/Vistula/2023/Techniki i narzędzia stosowane w komunikacji technicznej/MadCap Flare/Ivanhoe_Sample_Project/Docs/.git/"
+  DatabaseRoot="file:///c:/MARTY/dokumenty/Vistula/2023/Techniki i narzędzia stosowane w komunikacji technicznej/MadCap Flare/Ivanhoe_Sample_Project/Docs"></CatapultDestination>
