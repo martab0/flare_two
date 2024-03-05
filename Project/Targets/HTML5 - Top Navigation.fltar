@@ -24,7 +24,7 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/Ivanhoe2.fldes"
+      Link="/Project/Destinations/Ivanhoe.fldes"
       Publish="true"
       IsResource="false" />
   </Destinations>
