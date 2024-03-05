@@ -5,10 +5,11 @@
   Host="ftp.myftpserver.com"
   User="MyAccountId"
   Password=""
-  Directory="c:\MARTY\dokumenty\Vistula\2023\Techniki i narzędzia stosowane w komunikacji technicznej\MadCap Flare\Ivanhoe_Sample_Project\Docs"
+  Directory="c:\MARTY\dokumenty\Vistula\2023\Techniki i narzędzia stosowane w komunikacji technicznej\MadCap Flare\Ivanhoe_Sample_Project\docs"
   Port=""
   ViewUrl="http://www.madcapsoftware.com/"
   Type="scm"
   ProviderType="Git"
-  Database="file:///c:/MARTY/dokumenty/Vistula/2023/Techniki i narzędzia stosowane w komunikacji technicznej/MadCap Flare/Ivanhoe_Sample_Project/Docs/.git/"
-  DatabaseRoot="file:///c:/MARTY/dokumenty/Vistula/2023/Techniki i narzędzia stosowane w komunikacji technicznej/MadCap Flare/Ivanhoe_Sample_Project/Docs"></CatapultDestination>
+  Database="file:///c:/MARTY/dokumenty/Vistula/2023/Techniki i narzędzia stosowane w komunikacji technicznej/MadCap Flare/Ivanhoe_Sample_Project/docs/.git/"
+  DatabaseRoot="file:///c:/MARTY/dokumenty/Vistula/2023/Techniki i narzędzia stosowane w komunikacji technicznej/MadCap Flare/Ivanhoe_Sample_Project/docs"
+  PushToRemote="true"></CatapultDestination>
