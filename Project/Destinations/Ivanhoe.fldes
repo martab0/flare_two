@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultDestination
   Version="1"
-  Comment="This is my destination for GitHub Pages"
+  Comment="This is my docs destination"
   Host="ftp.myftpserver.com"
   User="MyAccountId"
   Password=""
