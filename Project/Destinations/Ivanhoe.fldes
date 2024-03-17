@@ -12,4 +12,5 @@
   ProviderType="Git"
   Database="file:///c:/MARTY/dokumenty/Vistula/2023/Techniki i narzędzia stosowane w komunikacji technicznej/MadCap Flare/Ivanhoe_Sample_Project/docs/.git/"
   DatabaseRoot="file:///c:/MARTY/dokumenty/Vistula/2023/Techniki i narzędzia stosowane w komunikacji technicznej/MadCap Flare/Ivanhoe_Sample_Project/docs"
-  PushToRemote="true"></CatapultDestination>
+  PushToRemote="true"
+  RemoteRepository="flare_two"></CatapultDestination>
